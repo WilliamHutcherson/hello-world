@@ -1,2 +1,3 @@
 # hello-world
 In honor of tradition, here is my "Hello World!"
+A bit about me, I'm 27 (at time of writing), passionate about programming and Renaissance history. Specifically with programming, I am interested in server-side work for the moment, but in a few years I would like to be experienced enough to move into computer security and network security. I have always wanted to create an anti-virus program that is better than all the ones currently in existence. For history, I like to read books from the time, as well as attend and participate in both Renaissance Festivals and SCA (Society for Creative Anachronisms) events. Thank you for reading!
